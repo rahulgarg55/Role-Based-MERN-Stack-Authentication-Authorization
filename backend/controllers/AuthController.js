@@ -51,4 +51,4 @@ const Logout = async(req,res)=>{
     console.log(error);
     }
 }
-export default {register,Login,Logout};    
+export default {register,Login,Logout};   
